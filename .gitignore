@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Output files
+output/*.mid
+output/*.wav
+
+# OS files
+Thumbs.db
+.DS_Store

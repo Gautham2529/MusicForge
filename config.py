@@ -1,0 +1,13 @@
+"""
+MusicForge Configuration
+"""
+
+DEFAULT_BPM = 140
+
+DEFAULT_KEY = "C"
+
+DEFAULT_SCALE = "major"
+
+DEFAULT_VELOCITY = 100
+
+DEFAULT_LENGTH = 32
