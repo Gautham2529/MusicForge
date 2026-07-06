@@ -9,6 +9,17 @@ MusicForge is a modular procedural music generation engine written entirely in P
 
 It generates melodies, basslines, drum patterns, harmony, chord progressions and exports complete MIDI songs that can be played inside any DAW such as LMMS.
 
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Current Status](#-current-status)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Example](#-example)
+- [Roadmap](#-roadmap)
+- [Technologies Used](#-technologies-used)
+- [License](#-license)
 ---
 
 # ✨ Features
